@@ -2,7 +2,7 @@
 
 Publicly shareable skills by Edward.
 
-This repository collects reusable Hermes Agent skills and supporting documentation. The first planned skill is **PDF to HTML conversion**.
+This repository collects reusable Hermes Agent skills and supporting documentation. The first published skill is **HTML document conversion**.
 
 ## Skills
 
